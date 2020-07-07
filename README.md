@@ -8,6 +8,8 @@
 
 [OpenGL](https://github.com/strijovegor/PCGraphics/tree/master/OpenGL)
 
+[ИСР](https://github.com/strijovegor/PCGraphics/blob/master/%20ИСРDirect3D.jpg)
+
 ## Лабораторные работы
 
 [Лабораторная работа 1](https://github.com/strijovegor/PCGraphics/tree/master/LR1)
